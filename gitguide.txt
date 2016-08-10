@@ -1,0 +1,10 @@
+git init
+	initialize new repo
+git add somefile.txt
+	add new file to git (or git changeset?)
+git remote add <name> <remote url, which apparently has .git at the end>
+	adds a new remote
+git remote -v
+	show remote repos
+git add -A
+	add all un-added files?
